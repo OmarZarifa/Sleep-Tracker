@@ -5,7 +5,7 @@
 
 ## Introduction <img src="https://github.com/Alloush95/test/assets/125370944/adeebf6c-9099-4b74-a346-a482f0b1061c" width="40" />
 
-Our sleep tracking application was created by a group of innovative students: Solomon W., Jwan M., Omar Z., Mohamad A., and Rosol H. They developed this project as part of the Agile Development Method course at Kristianstad University in Sweden.
+Our sleep tracking application was created by a group of innovative students: Solomon W., Jwan M., Omar Z., Mohamad A., and Rosol H. We developed this project as part of the Agile Development Method course at Kristianstad University in Sweden.
 
 
 
